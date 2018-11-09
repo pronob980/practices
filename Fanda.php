@@ -27,6 +27,7 @@
 		}
 		$tr=new student();
 		$tr->Details();
+		//text comment
 
 		?>
 	</section> 
