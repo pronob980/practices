@@ -16,7 +16,9 @@
 		<h2><?php echo "PHP Fundamental";?></h2>
 	</section>
 	<section class="maincontent">
+
 		<?php 
+		//error class
 		class student{
 			function Department(){
 				return "Computer Science";
@@ -27,7 +29,7 @@
 		}
 		$tr=new student();
 		$tr->Details();
-		//text comment
+
 
 		?>
 	</section> 
